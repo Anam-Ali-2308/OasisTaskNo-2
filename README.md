@@ -31,7 +31,7 @@ This repository contains two implementations of a Body Mass Index (BMI) calculat
 
 1. Clone this repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone <(https://github.com/Anam-Ali-2308/OasisTaskNo-2/tree/main)>  
    ```  
 
 2. Navigate to the project directory:  
